@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy [Tu Nombre] 
+# ¡Hola! 👋 Soy Juan David Castañeda 
 
-**Desarrollador [Frontend/Backend/Full Stack/Data Science/etc.]** apasionado por crear soluciones innovadoras y aprender cosas nuevas cada día. 💻✨
+**Desarrollador Backend** apasionado por crear soluciones innovadoras y aprender cosas nuevas cada día. 💻✨
 
 ## 🔧 Tecnologías y Herramientas
 
